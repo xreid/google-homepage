@@ -53,9 +53,9 @@ input[type="text"] {
   border-top-color: #c0c0c0;
   display: block;
   font-size: 16px;
-  height: 30px;
+  height: 26px;
   margin: auto;
-  width: 571px;
+  width: 565px;
 }
 
 input[type="submit"] {
