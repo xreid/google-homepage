@@ -58,6 +58,16 @@ input[type="text"] {
   width: 565px;
 }
 
+input[type="text"]:hover {
+  border: 1px solid #b9b9b9;
+  border-top-color: #a0a0a0;
+}
+
+input[type="text"]:focus {
+  border-color: rgb(66, 133, 244);
+  outline: none;
+}
+
 input[type="submit"] {
   background-color: ButtonFace;
   background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
